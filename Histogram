@@ -1,0 +1,7 @@
+# Create histogram of life_exp data
+import matplotlib.pyplot as plt
+plt.hist(life_exp,10)
+
+# Display histogram
+plt.show()
+#you need to define bins in the second raw.
