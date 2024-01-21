@@ -1,0 +1,2 @@
+#List =select,update, remove with [], indexed by range of numbers, collection of values 
+#dictionaries =select,update, remove with [], indexed by unique keys, lookup table with unique tables
